@@ -25,6 +25,8 @@
   <code><img title="Docker" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg"></code>
   <code><img title="Kubernetes" height="40" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg"></code>
   <code><img title="AWS" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg"></code>
+  <code><img title="Nginx" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
+  <code><img title="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </p>
 <hr>
 
