@@ -4,7 +4,7 @@
 
 - 🌱 I’m currentrly learning cybersecurity at Polytechnic Montréal
 - 🔭 I am working on several IT projects...
-- 📫 How to reach me : adrien.bonnivard@telecom-sudpairs.eu
+- 📫 How to reach me : adrien.bonnivard@telecom-sudparis.eu
 -  :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 
