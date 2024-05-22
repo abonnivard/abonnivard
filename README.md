@@ -2,7 +2,7 @@
 <h3 align="center">A french cybersecurity and software engineer student at Télécom SudParis</h3>
 
 
-- 🌱 I’m currentrly learning cybersecurity at Polytechnic Montréal
+- 🌱 I’m currentrly learning cybersecurity at Télécom SudParis
 - 🔭 I am working on several IT projects...
 - 📫 How to reach me : adrien.bonnivard@telecom-sudparis.eu
 -  :computer: &nbsp;Connect with me on **[LinkedIn]**
