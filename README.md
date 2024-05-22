@@ -22,6 +22,7 @@
   <code><img title="MySQL" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
   <code><img title="Git" height="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg"></code>
   <code><img title="Java" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg"></code>
+  <code><img title="c" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg"></code>
   <code><img title="Docker" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg"></code>
   <code><img title="Kubernetes" height="40" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg"></code>
   <code><img title="AWS" height="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg"></code>
