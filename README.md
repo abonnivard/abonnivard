@@ -31,7 +31,9 @@
 </p>
 <hr>
 
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abonnivard&show_icons=true&locale=en" alt="seaweedbraincy" />
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abonnivard&show_icons=true&locale=en&layout=compact" alt="abonnivard" /></p>
