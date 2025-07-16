@@ -15,7 +15,7 @@ I'm passionate about building secure, reliable, and scalable systems. My work br
 - Identity & access management (IAM), secrets rotation, certificate lifecycle
 - Infrastructure-as-Code and GitOps-based workflows
 - Kubernetes security and platform resilience
-- Offensive security and hands-on PoC development (see my [MaliciousUSB](https://github.com/abonnivard/MaliciousUSB) project)
+- Offensive security and hands-on PoC development
 
 📬 **Reach me at**: adri.bonnivard@gmail.com  
 🔗 **Connect on LinkedIn**: [Adrien Bonnivard](https://www.linkedin.com/in/adrien-bonnivard/)
@@ -25,40 +25,36 @@ I'm passionate about building secure, reliable, and scalable systems. My work br
 ## 🧠 Technical Skills
 
 **☁️ Platform & DevOps**
-- Docker, Kubernetes, Helm, Kustomize
-- Argo CD, GitHub Actions, CI/CD pipelines
-- Terraform, Ansible, Packer
+- Docker, Kubernetes (k8s, Minikube), Helm, Kustomize
+- GitLab CI/CD, GitHub Actions
+- Terraform, Ansible, Make
 - Monitoring & observability: Prometheus, Grafana, Loki
+- JFrog Artifactory
+- RabbitMQ, Kafka, Redis, PostgreSQL
 
 **🔐 Security & Identity**
-- HashiCorp Vault (PKI, KV, AWS auth), Boundary
+- HashiCorp Vault (PKI, KV)
+- Security and code quality analysis (Sonarqube, Trivy)
 - OpenID Connect (OIDC), OAuth2, RBAC
-- TLS/certificates automation
-- Linux hardening, Nginx/Traefik reverse proxies
+- TLS/certificate automation
+- Linux hardening, Nginx reverse proxies
 
 **💻 Development & Tools**
-- Python, Bash, Go (basics), Java
-- REST APIs, Flask/Django (basics)
-- Elasticsearch, Logstash, Kibana
-- Git, Linux, systemd, Make, Wireshark
+- C, Java, Python, Bash
+- HTML, CSS, JavaScript, TypeScript
+- REST APIs, Flask/Django, React Native
+- Git, Linux, systemd, Wireshark, VSCode, Pycharm
 
 ---
 
 ## 📂 Selected Projects
 
-- [**MaliciousUSB**](https://github.com/abonnivard/MaliciousUSB) – Python-based payload launcher using a standard USB stick (no HID)  
-- [**DNS-ELK**](https://github.com/abonnivard/dns-elk) – Unbound DNS logging to Elasticsearch for traffic analysis  
-- [**TabSage**](https://github.com/abonnivard/tabsage) (WIP) – AI-powered Chrome extension for tab management  
-- RFC1149 IRL – A fun exploration of IP over carrier pigeons 🕊️
+- [**Microgrid Testbed**](https://github.com/abonnivard/Microgrid-simulation-for-security-test) – Simulation of a complete microgrid industrial environment for cybersecurity testing
+- [**DNS Proxy**](https://github.com/abonnivard/proxy-dns) – DNS proxy with Elasticsearch & Kibana integration for traffic analysis
+- [**Verifiable Credentials Generator**](https://github.com/abonnivard/VC_generation) – Simple testing interface to create, sign, and use Verifiable Credentials (VCs)
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abonnivard&layout=compact&langs_count=8&hide_border=true" />
 </p>
-
----
-
-<sub>Made with ❤️ by Adrien Bonnivard</sub>
