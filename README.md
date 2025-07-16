@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adrien</h1>
-<h3 align="center">A french cybersecurity and devops student at Télécom SudParis</h3>
+<h3 align="center">Cybersecurity & DevOps Engineer — Specialized in Security & Identity</h3>
+
+<p align="center">
+🎓 Télécom SudParis graduate • 💻 Currently working in SRE / Platform Engineering<br>
+🔐 Passionate about offensive & defensive security, infrastructure, and automation
+</p>
 
 
 - 🌱 I’m currentrly learning cybersecurity at Télécom SudParis
 - 🔭 I am working on several IT projects...
-- 📫 How to reach me : adrien.bonnivard@telecom-sudparis.eu
+- 📫 How to reach me : adri.bonnivard@gmail.com
 -  :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 
